@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+     <body>
+      <div class = "bird">
+       </div>
+    </body>
+
+    <!-- Import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css" />
+
+    <!-- Import the webpage's javascript file -->
+    <script src="/script.js" defer></script>
+  </head>
+  <body>
+
+        <!-- This is the start of content for our page -->
+        <h1 class="title"> Light and Sound Memory Game!</h1>
+         <p style="font-size:25px" id="output"></p>
+          <button id ="startBtn" onclick="startGame()">
+            Start</button>
+          <button id="stopBtn" class="hidden" onclick="stopGame()" >
+            Stop</button>
+   
+ <style>
+         body {
+           background-image: url("https://cdn.glitch.global/a426efd1-427f-482a-b61d-c72a48c40e8d/animate-bird-slide-25.gif?v=1648582437547");
+           background-repeat: repeat-x;
+           background-attachment: fixed;
+           background-size: 250px;
+           background-position: 300px 600px;
+  }
+      </style>  
+  
+  
+<img id = "first" src="https://cdn.glitch.global/a426efd1-427f-482a-b61d-c72a48c40e8d/thumbs-up-good.gif?v=1648593556491" alt="HTML1 Icon" width="100" height="100">
+<img id = "second" src="https://cdn.glitch.global/a426efd1-427f-482a-b61d-c72a48c40e8d/spongebob-thumbs-up.gif?v=1648593561786" alt="HTML2 Icon" width="128" height="128">
+<img id = "third"  src="https://cdn.glitch.global/a426efd1-427f-482a-b61d-c72a48c40e8d/4187.gif?v=1648593570724" alt="HTML3 Icon" width="128" height="128">
+<img id = "fourth" src="https://cdn.glitch.global/a426efd1-427f-482a-b61d-c72a48c40e8d/tumblr_5e4aba2dc9fdef74c3964aa9e32e8788_29105220_500.webp?v=1648593577584" alt="HTML4 Icon" width="128" height="128">
+<img id = "fifth" src="https://cdn.glitch.global/a426efd1-427f-482a-b61d-c72a48c40e8d/giphy%20(1).gif?v=1648593583794" alt="HTML5 Icon" width="128" height="128">
+<img id = "lost" src="https://cdn.glitch.global/a426efd1-427f-482a-b61d-c72a48c40e8d/giphy%20(2).gif?v=1648603139320" alt="HTML1 Icon" width="100" height="100"> 
+<img id = "win" src="https://cdn.glitch.global/a426efd1-427f-482a-b61d-c72a48c40e8d/cf22171bbda1f35.webp?v=1648603135664" alt="HTML1 Icon" width="100" height="100">
+          <div id="gameButtonArea">
+          <button id="button1" onclick="guess(1); myFunction1()" onmousedown="startTone(1)" onmouseup="stopTone()"></button>
+          <button id="button2" onclick="guess(2); myFunction2()" onmousedown="startTone(2)" onmouseup="stopTone()"></button> 
+          <button id="button3" onclick="guess(3); myFunction3()" onmousedown="startTone(3)" onmouseup="stopTone()"></button>
+          <button id="button4" onclick="guess(4); myFunction4()" onmousedown="startTone(4)" onmouseup="stopTone()"></button>
+          <button id="button5" onclick="guess(5); myFunction5()" onmousedown="startTone(5)" onmouseup="StopTone()"></button>
+          
+      
+           
+    </div>
+  </body>
+</html>
