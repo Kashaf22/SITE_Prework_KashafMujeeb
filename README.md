@@ -36,7 +36,7 @@ The following **additional** features are implemented:
 
 - [] List anything else that you can get done to improve the app!
 - [X] Added a gif background image for better user graphics (the bird background image).
-- [X] The background image chnages when the user wins or loses the game, showing a gif corresponding to "You win" , or "You lost"
+- [X] The background image changes when the user wins or loses the game, showing a gif corresponding to "You win" , or "You lost"
 - [X] Player Strikes are shown and updated on the webpage everytime a player makes a mistake. A window alert is also given to the user. 
 - [X] Changed the default cursor to grab cursor for better user experience.
 - [X] Everytime a user clicks a button , a new gif image linked to that button pops up. 
