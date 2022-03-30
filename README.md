@@ -46,7 +46,7 @@ The following **additional** features are implemented:
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 
 
-<img src='https://imgur.com/5dlUXAg.gif' />
+<img src='https://imgur.com/5dlUXAg.gif' title='Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## Reflection Questions
