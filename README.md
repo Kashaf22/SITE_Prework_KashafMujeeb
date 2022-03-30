@@ -45,8 +45,7 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 
-![](https://i.imgur.com/lk0Q9kL.gif)
-![](gif2-link-here)
+![](gif2-https://i.imgur.com/lk0Q9kL.gif)
 ![](gif3-link-here)
 ![](gif4-link-here)
 
