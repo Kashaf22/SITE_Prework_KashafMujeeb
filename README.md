@@ -44,10 +44,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![]<img src='https://imgur.com/5dlUXAg.gif' title='Walkthrough Part 1' width='' alt='Video Walkthrough' />
-![](gif2-link-here)
-![](gif3-link-here)
-![](gif4-link-here)
+<img src='https://imgur.com/5dlUXAg.gif' title='Walkthrough Part 1' width='' alt='Video Walkthrough' />
+
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
